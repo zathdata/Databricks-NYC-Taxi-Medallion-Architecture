@@ -8,7 +8,7 @@ This project has an end-to-end ETL pipeline using the NYC Yellow Taxi dataset. I
 * **Dataset:** 4 months of NYC Yellow Taxi Trip Records (2025)
 
 ## Data resources
-* Go to the [Website](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page/)
+* Go to the NYC Taxi Trips [Website](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page/)
 * Download the Zone Look UP csv file and the Yellow Taxi 2025 parquet files
 
 ## Medallion Architecture
